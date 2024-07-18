@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Food-Site-Sha-p-Brain/static/css/main.76ce8841.css",
+    "main.js": "/Food-Site-Sha-p-Brain/static/js/main.d236765d.js",
+    "static/media/backround.mp4": "/Food-Site-Sha-p-Brain/static/media/backround.0e2c8c0bf5e670e91c27.mp4",
+    "static/media/location.png": "/Food-Site-Sha-p-Brain/static/media/location.951034f2891d5ad77099.png",
+    "static/media/poto.png": "/Food-Site-Sha-p-Brain/static/media/poto.f26e01f86533e87bac2a.png",
+    "static/media/braii.png": "/Food-Site-Sha-p-Brain/static/media/braii.c62c5fc0d2bda8e554a3.png",
+    "static/media/addon.png": "/Food-Site-Sha-p-Brain/static/media/addon.6f1c7ec603a1d26c053c.png",
+    "static/media/pizzza.png": "/Food-Site-Sha-p-Brain/static/media/pizzza.72bc24cb83f63f5509cb.png",
+    "static/media/kotap.png": "/Food-Site-Sha-p-Brain/static/media/kotap.070ae790e58b24c0697d.png",
+    "static/media/product_4.3.png": "/Food-Site-Sha-p-Brain/static/media/product_4.3.2df1cebb0cf62346965c.png",
+    "static/media/product_3.1.jpg": "/Food-Site-Sha-p-Brain/static/media/product_3.1.9c207cdf68c9700b11ce.jpg",
+    "static/media/product_2.2.jpg": "/Food-Site-Sha-p-Brain/static/media/product_2.2.4967c9cbe3fec366a31a.jpg",
+    "static/media/product_2.3.jpg": "/Food-Site-Sha-p-Brain/static/media/product_2.3.3914f9eb0c0b372910ea.jpg",
+    "static/media/product_4.2.jpg": "/Food-Site-Sha-p-Brain/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/Food-Site-Sha-p-Brain/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/product_3.3.jpg": "/Food-Site-Sha-p-Brain/static/media/product_3.3.f482f459be92f0045d9a.jpg",
+    "static/media/product_3.2.jpg": "/Food-Site-Sha-p-Brain/static/media/product_3.2.ebcb16b50e4ef0060a5e.jpg",
+    "static/media/product_2.1.jpg": "/Food-Site-Sha-p-Brain/static/media/product_2.1.f15385546f60c8d0f0d9.jpg",
+    "static/media/hamburger1.png": "/Food-Site-Sha-p-Brain/static/media/hamburger1.bd4fea20e1631e652601.png",
+    "static/media/product_01.3.jpg": "/Food-Site-Sha-p-Brain/static/media/product_01.3.3ca2e9753f9acf20ca46.jpg",
+    "static/media/product_01.1.jpg": "/Food-Site-Sha-p-Brain/static/media/product_01.1.2244bc02a3d347b6bdda.jpg",
+    "static/media/product_09.jpg": "/Food-Site-Sha-p-Brain/static/media/product_09.d21d528bedb9088bf89f.jpg",
+    "static/media/product_01.jpg": "/Food-Site-Sha-p-Brain/static/media/product_01.6be97a612b580d595585.jpg",
+    "static/media/product_04.jpg": "/Food-Site-Sha-p-Brain/static/media/product_04.f7c5294d0481fb12cc4c.jpg",
+    "static/media/product_08.jpg": "/Food-Site-Sha-p-Brain/static/media/product_08.efc6c71968cf3ffe817a.jpg",
+    "static/media/resturant.png": "/Food-Site-Sha-p-Brain/static/media/resturant.a991dfbf4669660ef7d8.png",
+    "static/media/bread(2).png": "/Food-Site-Sha-p-Brain/static/media/bread(2).dd485726262fc6f94474.png",
+    "static/media/res-logo.png": "/Food-Site-Sha-p-Brain/static/media/res-logo.2f9021c4ef5fe532038e.png",
+    "static/media/bread(3).png": "/Food-Site-Sha-p-Brain/static/media/bread(3).e4b9fdd91579778ae4cc.png",
+    "static/media/bread(1).png": "/Food-Site-Sha-p-Brain/static/media/bread(1).2fbb5c91c696e21efcb6.png",
+    "static/media/gdhf.png": "/Food-Site-Sha-p-Brain/static/media/gdhf.f168b67bbed2206eb637.png",
+    "index.html": "/Food-Site-Sha-p-Brain/index.html",
+    "main.76ce8841.css.map": "/Food-Site-Sha-p-Brain/static/css/main.76ce8841.css.map",
+    "main.d236765d.js.map": "/Food-Site-Sha-p-Brain/static/js/main.d236765d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ce8841.css",
+    "static/js/main.d236765d.js"
+  ]
+}
